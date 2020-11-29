@@ -1,0 +1,39 @@
+table {
+    font-family: 'Varela Round', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.mydiv {
+    margin-top: 50px;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1553640141-92b68750cf3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    font-family: 'Varela Round', sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
