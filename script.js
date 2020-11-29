@@ -20,7 +20,7 @@ function performSearch(event) {
     var city = $("#city").val();
 
 
-
+//if city field is empty and you press search it will displays the result of five cities if you dont want it just remove all this except where city have a value
     if (city === "") {
 
         $("#city-name").text("Searching ...");
